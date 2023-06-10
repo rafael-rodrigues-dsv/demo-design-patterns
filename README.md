@@ -1,1 +1,1 @@
-# demo-design-patterns
+# design-patterns

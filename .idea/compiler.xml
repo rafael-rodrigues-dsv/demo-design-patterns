@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-template-method" />
+        <module name="demo-facade" />
+        <module name="demo-mediator" />
+        <module name="demo-strategy" />
+        <module name="demo-command" />
+        <module name="demo-observer" />
+        <module name="demo-decorator" />
+        <module name="demo-chain-of-responsability" />
+        <module name="demo-bridge" />
+        <module name="demo-prototype" />
+        <module name="demo-singleton" />
+        <module name="demo-adapter" />
+        <module name="demo-builder" />
+        <module name="demo-factory-method" />
+        <module name="demo-abstract-factory" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

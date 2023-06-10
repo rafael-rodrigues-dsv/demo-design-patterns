@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/behavioral/demo-command/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral/demo-mediator/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral/demo-observer/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral/demo-strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral/demo-template-method/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral/demo-chain-of-responsability/pom.xml" />
+        <option value="$PROJECT_DIR$/creational/demo-builder/pom.xml" />
+        <option value="$PROJECT_DIR$/creational/demo-singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/creational/demo-factory-method/pom.xml" />
+        <option value="$PROJECT_DIR$/creational/demo-abstract-factory/pom.xml" />
+        <option value="$PROJECT_DIR$/structural/demo-bridge/pom.xml" />
+        <option value="$PROJECT_DIR$/structural/demo-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/structural/demo-adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/structural/demo-decorator/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
