@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.decorators.CarDecorator;
+import org.example.decorator.CarDecorator;
 import org.example.contract.Car;
 
 public class LuxuryCar extends CarDecorator {

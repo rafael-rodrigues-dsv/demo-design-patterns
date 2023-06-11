@@ -1,4 +1,4 @@
-package org.example.decorators;
+package org.example.decorator;
 
 import org.example.contract.Car;
 
