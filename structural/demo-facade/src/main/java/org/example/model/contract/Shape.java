@@ -1,4 +1,4 @@
-package org.example.model.contracts;
+package org.example.model.contract;
 
 public interface Shape {
     void draw();

@@ -1,8 +1,8 @@
 package org.example.model;
 
 
-import org.example.adapters.MediaAdapter;
-import org.example.model.contracts.MediaPlayer;
+import org.example.adapter.MediaAdapter;
+import org.example.contract.MediaPlayer;
 
 public class AudioPlayer implements MediaPlayer {
     MediaAdapter mediaAdapter;

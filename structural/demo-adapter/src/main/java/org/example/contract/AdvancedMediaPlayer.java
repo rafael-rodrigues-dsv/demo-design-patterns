@@ -1,4 +1,4 @@
-package org.example.model.contracts;
+package org.example.contract;
 
 public interface AdvancedMediaPlayer {
     public void playVlc(String fileName);

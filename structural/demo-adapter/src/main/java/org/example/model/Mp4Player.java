@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.model.contracts.AdvancedMediaPlayer;
+import org.example.contract.AdvancedMediaPlayer;
 
 public class Mp4Player implements AdvancedMediaPlayer {
 

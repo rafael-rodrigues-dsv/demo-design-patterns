@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.model.contracts.Shape;
+import org.example.model.contract.Shape;
 
 public class Rectangle implements Shape {
 

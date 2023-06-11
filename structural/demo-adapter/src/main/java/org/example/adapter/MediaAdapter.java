@@ -1,9 +1,9 @@
-package org.example.adapters;
+package org.example.adapter;
 
 import org.example.model.Mp4Player;
 import org.example.model.VlcPlayer;
-import org.example.model.contracts.AdvancedMediaPlayer;
-import org.example.model.contracts.MediaPlayer;
+import org.example.contract.AdvancedMediaPlayer;
+import org.example.contract.MediaPlayer;
 
 public class MediaAdapter implements MediaPlayer {
 

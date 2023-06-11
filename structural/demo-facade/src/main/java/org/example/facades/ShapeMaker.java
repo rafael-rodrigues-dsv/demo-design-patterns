@@ -3,7 +3,7 @@ package org.example.facades;
 import org.example.model.Circle;
 import org.example.model.Rectangle;
 import org.example.model.Square;
-import org.example.model.contracts.Shape;
+import org.example.model.contract.Shape;
 
 public class ShapeMaker {
     private Shape circle;
