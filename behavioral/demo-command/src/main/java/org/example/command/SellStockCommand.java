@@ -1,6 +1,6 @@
-package org.example.commands;
+package org.example.command;
 
-import org.example.contracts.Order;
+import org.example.contract.Order;
 import org.example.model.Stock;
 
 public class SellStockCommand implements Order {

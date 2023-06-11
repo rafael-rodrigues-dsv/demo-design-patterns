@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.contracts.Observer;
+import org.example.contract.Observer;
 import org.example.model.MyTopic;
 import org.example.model.MyTopicSubscriber;
 

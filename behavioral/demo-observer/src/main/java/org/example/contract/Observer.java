@@ -1,4 +1,4 @@
-package org.example.contracts;
+package org.example.contract;
 
 public interface Observer {
 

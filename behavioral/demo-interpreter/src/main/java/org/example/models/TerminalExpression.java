@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.contracts.Expression;
+import org.example.contract.Expression;
 
 public class TerminalExpression implements Expression {
 

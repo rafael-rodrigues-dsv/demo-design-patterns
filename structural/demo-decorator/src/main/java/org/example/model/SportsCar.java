@@ -1,7 +1,7 @@
 package org.example.model;
 
 import org.example.decorators.CarDecorator;
-import org.example.contracts.Car;
+import org.example.contract.Car;
 
 public class SportsCar extends CarDecorator {
 

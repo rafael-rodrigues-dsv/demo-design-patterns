@@ -1,7 +1,7 @@
 package org.example.model;
 
-import org.example.contracts.ChannelCollection;
-import org.example.contracts.ChannelIterator;
+import org.example.contract.ChannelCollection;
+import org.example.contract.ChannelIterator;
 import org.example.enums.ChannelTypeEnum;
 
 import java.util.ArrayList;

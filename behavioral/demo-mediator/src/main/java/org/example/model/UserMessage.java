@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.contracts.ChatMediator;
+import org.example.contract.ChatMediator;
 
 public class UserMessage extends User {
 

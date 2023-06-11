@@ -1,6 +1,6 @@
 package org.example.model.devices;
 
-import org.example.contracts.Device;
+import org.example.contract.Device;
 
 public class Radio implements Device {
     private boolean on = false;

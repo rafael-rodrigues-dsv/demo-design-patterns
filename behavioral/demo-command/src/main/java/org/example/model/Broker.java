@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.contracts.Order;
+import org.example.contract.Order;
 
 import java.util.ArrayList;
 import java.util.List;

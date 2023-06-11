@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.contracts.ChatMediator;
+import org.example.contract.ChatMediator;
 import org.example.model.User;
 import org.example.impl.ChatMediatorImpl;
 import org.example.model.UserMessage;

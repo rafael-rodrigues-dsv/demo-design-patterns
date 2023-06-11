@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.contracts.PayStrategy;
+import org.example.contract.PayStrategy;
 
 /**
  * Order class. Doesn't know the concrete payment method (strategy) user has

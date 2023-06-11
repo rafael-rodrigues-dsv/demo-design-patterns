@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.contracts.PayStrategy;
+import org.example.contract.PayStrategy;
 import org.example.model.Order;
 import org.example.model.PayByCreditCard;
 import org.example.model.PayByPayPal;

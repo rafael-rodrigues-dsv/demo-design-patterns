@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.contracts.ShoppingCartVisitor;
+import org.example.contract.ShoppingCartVisitor;
 
 public class ShoppingCartVisitorImpl implements ShoppingCartVisitor {
 

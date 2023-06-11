@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.contracts.Expression;
+import org.example.contract.Expression;
 import org.example.model.AndExpression;
 import org.example.model.OrExpression;
 import org.example.model.TerminalExpression;

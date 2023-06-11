@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.contracts.ItemElement;
-import org.example.contracts.ShoppingCartVisitor;
+import org.example.contract.ItemElement;
+import org.example.contract.ShoppingCartVisitor;
 import org.example.model.Book;
 import org.example.model.Fruit;
 import org.example.model.ShoppingCartVisitorImpl;

@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.contracts.PayStrategy;
+import org.example.contract.PayStrategy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

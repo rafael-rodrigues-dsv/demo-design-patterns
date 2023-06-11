@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.contracts.Internet;
+import org.example.contract.Internet;
 
 import java.util.ArrayList;
 import java.util.List;

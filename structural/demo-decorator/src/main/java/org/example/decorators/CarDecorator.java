@@ -1,6 +1,6 @@
 package org.example.decorators;
 
-import org.example.contracts.Car;
+import org.example.contract.Car;
 
 public class CarDecorator implements Car {
 

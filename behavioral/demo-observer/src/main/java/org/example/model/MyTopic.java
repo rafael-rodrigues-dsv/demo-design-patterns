@@ -1,7 +1,7 @@
 package org.example.model;
 
-import org.example.contracts.Observer;
-import org.example.contracts.Subject;
+import org.example.contract.Observer;
+import org.example.contract.Subject;
 
 import java.util.ArrayList;
 import java.util.List;

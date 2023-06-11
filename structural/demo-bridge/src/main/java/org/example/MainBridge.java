@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.contracts.Device;
+import org.example.contract.Device;
 import org.example.model.devices.Radio;
 import org.example.model.devices.Tv;
 import org.example.model.remotes.AdvancedRemote;

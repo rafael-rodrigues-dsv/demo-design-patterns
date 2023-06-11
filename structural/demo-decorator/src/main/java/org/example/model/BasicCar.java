@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.contracts.Car;
+import org.example.contract.Car;
 
 public class BasicCar implements Car {
 

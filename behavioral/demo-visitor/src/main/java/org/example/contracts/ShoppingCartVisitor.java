@@ -1,4 +1,4 @@
-package org.example.contracts;
+package org.example.contract;
 
 import org.example.model.Book;
 import org.example.model.Fruit;

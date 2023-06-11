@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.contracts.Car;
+import org.example.contract.Car;
 import org.example.model.BasicCar;
 import org.example.model.LuxuryCar;
 import org.example.model.SportsCar;

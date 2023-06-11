@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.commands.BuyStockCommand;
-import org.example.commands.SellStockCommand;
+import org.example.command.BuyStockCommand;
+import org.example.command.SellStockCommand;
 import org.example.model.Broker;
 import org.example.model.Stock;
 

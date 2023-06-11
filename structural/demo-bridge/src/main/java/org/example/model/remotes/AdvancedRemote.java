@@ -1,6 +1,6 @@
 package org.example.model.remotes;
 
-import org.example.contracts.Device;
+import org.example.contract.Device;
 
 public class AdvancedRemote extends BasicRemote {
 
