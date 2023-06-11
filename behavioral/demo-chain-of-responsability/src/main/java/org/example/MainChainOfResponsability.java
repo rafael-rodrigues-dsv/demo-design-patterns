@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainChainOfResponsability {
 
     private static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     private static Server server;

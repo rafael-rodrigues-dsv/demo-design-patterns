@@ -11,7 +11,7 @@ import org.example.models.SportsCar;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainDecorator {
     public static void main(String[] args) {
         testDecorator();
     }

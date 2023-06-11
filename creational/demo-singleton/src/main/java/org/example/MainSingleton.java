@@ -6,7 +6,7 @@ package org.example;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainSingleton {
     public static void main(String[] args) {
         testSingleton();
     }

@@ -12,7 +12,7 @@ import org.example.models.remotes.BasicRemote;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainBridge {
     public static void main(String[] args) {
         testBridge();
     }

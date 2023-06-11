@@ -10,7 +10,7 @@ import org.example.templates.HouseTemplate;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainTemplateMethod {
     public static void main(String[] args) {
         testTemplateMethod();
     }

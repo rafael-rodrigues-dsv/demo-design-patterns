@@ -11,7 +11,7 @@ import org.example.models.TerminalExpression;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainInterpreter {
     public static void main(String[] args) {
         testInterpreter();
     }

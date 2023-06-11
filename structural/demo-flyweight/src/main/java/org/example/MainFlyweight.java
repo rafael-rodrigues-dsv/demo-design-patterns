@@ -10,7 +10,7 @@ import java.awt.*;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainFlyweight {
     static int CANVAS_SIZE = 500;
     static int TREES_TO_DRAW = 1000000;
     static int TREE_TYPES = 2;

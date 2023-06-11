@@ -11,7 +11,7 @@ import org.example.models.Stock;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainCommand {
     public static void main(String[] args) {
         testCommand();
     }

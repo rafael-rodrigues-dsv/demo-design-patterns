@@ -17,7 +17,7 @@ import java.util.Map;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainStrategy {
     private static Map<Integer, Integer> priceOnProducts = new HashMap<>();
     private static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     private static Order order = new Order();

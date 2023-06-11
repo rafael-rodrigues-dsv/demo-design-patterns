@@ -8,7 +8,7 @@ import org.example.models.Employee;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainComposite {
     public static void main(String[] args) {
         testComposite();
     }

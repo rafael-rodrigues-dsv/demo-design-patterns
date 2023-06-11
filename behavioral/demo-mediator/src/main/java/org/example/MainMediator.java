@@ -12,7 +12,7 @@ import java.util.ArrayList;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainMediator {
     public static void main(String[] args) {
         testMediator();
     }

@@ -8,7 +8,7 @@ import org.example.models.AudioPlayer;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainAdapter {
     public static void main(String[] args) {
         testAdapter();
     }

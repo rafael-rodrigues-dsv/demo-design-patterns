@@ -8,7 +8,7 @@ import org.example.models.Computer;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainBuilder {
     public static void main(String[] args) {
         testBuilder();
     }

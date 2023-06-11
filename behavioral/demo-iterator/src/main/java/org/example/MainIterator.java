@@ -12,7 +12,7 @@ import org.example.models.ChannelCollectionImpl;
  * @version 1.0
  * @since 1.0
  */
-public class Main {
+public class MainIterator {
     public static void main(String[] args) {
         testIterator();
     }
