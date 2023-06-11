@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.facades.ShapeMaker;
+import org.example.facade.ShapeMaker;
 
 /** Facade in Java.
  * @author Rafael Rodrigues

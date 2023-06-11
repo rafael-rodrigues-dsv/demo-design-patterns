@@ -1,4 +1,4 @@
-package org.example.facades;
+package org.example.facade;
 
 import org.example.model.Circle;
 import org.example.model.Rectangle;
