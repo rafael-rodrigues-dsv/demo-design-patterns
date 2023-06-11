@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.models.Computer;
+import org.example.model.Computer;
 
 /** Builder in Java.
  * @author Rafael Rodrigues

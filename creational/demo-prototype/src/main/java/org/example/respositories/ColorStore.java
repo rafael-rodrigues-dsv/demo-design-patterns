@@ -1,8 +1,8 @@
 package org.example.respositories;
 
-import org.example.models.BlackColor;
-import org.example.models.BlueColor;
-import org.example.models.Color;
+import org.example.model.BlackColor;
+import org.example.model.BlueColor;
+import org.example.model.Color;
 
 import java.util.HashMap;
 import java.util.Map;

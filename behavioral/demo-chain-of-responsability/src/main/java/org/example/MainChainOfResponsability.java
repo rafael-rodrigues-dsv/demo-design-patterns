@@ -4,7 +4,7 @@ import org.example.middleware.Middleware;
 import org.example.middleware.RoleCheckMiddleware;
 import org.example.middleware.ThrottlingMiddleware;
 import org.example.middleware.UserExistsMiddleware;
-import org.example.models.Server;
+import org.example.model.Server;
 
 import java.io.BufferedReader;
 import java.io.IOException;

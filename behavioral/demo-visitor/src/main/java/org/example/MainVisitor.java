@@ -2,9 +2,9 @@ package org.example;
 
 import org.example.contracts.ItemElement;
 import org.example.contracts.ShoppingCartVisitor;
-import org.example.models.Book;
-import org.example.models.Fruit;
-import org.example.models.ShoppingCartVisitorImpl;
+import org.example.model.Book;
+import org.example.model.Fruit;
+import org.example.model.ShoppingCartVisitorImpl;
 
 /** State in Visitor.
  * @author Rafael Rodrigues

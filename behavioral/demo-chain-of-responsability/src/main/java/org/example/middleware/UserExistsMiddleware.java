@@ -1,6 +1,6 @@
 package org.example.middleware;
 
-import org.example.models.Server;
+import org.example.model.Server;
 
 /**
  * ConcreteHandler. Checks whether a user with the given credentials exists.

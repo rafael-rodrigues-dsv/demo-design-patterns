@@ -3,7 +3,7 @@ package org.example;
 import org.example.abstractfactory.ComputerFactory;
 import org.example.abstractfactory.PCFactory;
 import org.example.abstractfactory.ServerFactory;
-import org.example.models.Computer;
+import org.example.model.Computer;
 
 /** Abstract Factory in Java.
  * @author Rafael Rodrigues

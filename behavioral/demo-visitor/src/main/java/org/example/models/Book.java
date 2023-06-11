@@ -1,4 +1,4 @@
-package org.example.models;
+package org.example.model;
 
 import org.example.contracts.ItemElement;
 import org.example.contracts.ShoppingCartVisitor;

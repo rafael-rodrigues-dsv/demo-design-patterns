@@ -1,6 +1,6 @@
 package org.example.contracts;
 
-import org.example.models.User;
+import org.example.model.User;
 
 public interface ChatMediator {
 

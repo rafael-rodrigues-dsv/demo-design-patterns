@@ -1,9 +1,9 @@
 package org.example;
 
 import org.example.contracts.PayStrategy;
-import org.example.models.Order;
-import org.example.models.PayByCreditCard;
-import org.example.models.PayByPayPal;
+import org.example.model.Order;
+import org.example.model.PayByCreditCard;
+import org.example.model.PayByPayPal;
 
 import java.io.BufferedReader;
 import java.io.IOException;

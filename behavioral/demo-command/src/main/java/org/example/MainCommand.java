@@ -2,8 +2,8 @@ package org.example;
 
 import org.example.commands.BuyStockCommand;
 import org.example.commands.SellStockCommand;
-import org.example.models.Broker;
-import org.example.models.Stock;
+import org.example.model.Broker;
+import org.example.model.Stock;
 
 /** Decorator in Java.
  * @author Rafael Rodrigues

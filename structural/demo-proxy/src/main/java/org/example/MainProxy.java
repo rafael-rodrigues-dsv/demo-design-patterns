@@ -1,7 +1,7 @@
 package org.example;
 
 import org.example.contracts.Internet;
-import org.example.models.ProxyInternet;
+import org.example.model.ProxyInternet;
 
 /** Prototype in Java.
  * @author Rafael Rodrigues

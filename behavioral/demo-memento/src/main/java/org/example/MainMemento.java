@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.models.Life;
+import org.example.model.Life;
 
 import java.util.ArrayList;
 import java.util.List;

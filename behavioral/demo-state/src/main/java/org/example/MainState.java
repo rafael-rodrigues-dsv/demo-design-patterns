@@ -1,9 +1,9 @@
 package org.example;
 
-import org.example.models.State;
-import org.example.models.TVContext;
-import org.example.models.TVStartState;
-import org.example.models.TVStopState;
+import org.example.model.State;
+import org.example.model.TVContext;
+import org.example.model.TVStartState;
+import org.example.model.TVStopState;
 
 /** State in Java.
  * @author Rafael Rodrigues

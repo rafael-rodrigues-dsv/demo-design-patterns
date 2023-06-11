@@ -1,9 +1,9 @@
 package org.example;
 
 import org.example.contracts.Expression;
-import org.example.models.AndExpression;
-import org.example.models.OrExpression;
-import org.example.models.TerminalExpression;
+import org.example.model.AndExpression;
+import org.example.model.OrExpression;
+import org.example.model.TerminalExpression;
 
 /** Interpreter in Java.
  * @author Rafael Rodrigues

@@ -1,9 +1,9 @@
 package org.example;
 
 import org.example.contracts.ChatMediator;
-import org.example.models.User;
+import org.example.model.User;
 import org.example.impl.ChatMediatorImpl;
-import org.example.models.UserMessage;
+import org.example.model.UserMessage;
 import java.util.ArrayList;
 
 /** Mediator in Java.

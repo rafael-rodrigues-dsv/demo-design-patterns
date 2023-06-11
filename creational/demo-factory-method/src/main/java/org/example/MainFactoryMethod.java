@@ -1,8 +1,8 @@
 package org.example;
 
 
-import org.example.factories.ComputerFactory;
-import org.example.models.Computer;
+import org.example.factory.ComputerFactory;
+import org.example.model.Computer;
 
 /** Factory Method in Java.
  * @author Rafael Rodrigues

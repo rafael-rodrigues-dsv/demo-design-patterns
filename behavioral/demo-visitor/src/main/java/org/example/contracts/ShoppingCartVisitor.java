@@ -1,7 +1,7 @@
 package org.example.contracts;
 
-import org.example.models.Book;
-import org.example.models.Fruit;
+import org.example.model.Book;
+import org.example.model.Fruit;
 
 public interface ShoppingCartVisitor {
 

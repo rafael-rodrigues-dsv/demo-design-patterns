@@ -1,7 +1,7 @@
 package org.example.impl;
 
 import org.example.contracts.ChatMediator;
-import org.example.models.User;
+import org.example.model.User;
 
 import java.util.ArrayList;
 import java.util.List;

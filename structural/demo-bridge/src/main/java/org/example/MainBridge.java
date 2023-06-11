@@ -1,10 +1,10 @@
 package org.example;
 
 import org.example.contracts.Device;
-import org.example.models.devices.Radio;
-import org.example.models.devices.Tv;
-import org.example.models.remotes.AdvancedRemote;
-import org.example.models.remotes.BasicRemote;
+import org.example.model.devices.Radio;
+import org.example.model.devices.Tv;
+import org.example.model.remotes.AdvancedRemote;
+import org.example.model.remotes.BasicRemote;
 
 /** Bridge in Java.
  * @author Rafael Rodrigues

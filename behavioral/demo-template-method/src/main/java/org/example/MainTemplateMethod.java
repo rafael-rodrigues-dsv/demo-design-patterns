@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.models.GlassHouse;
-import org.example.models.WoodenHouse;
+import org.example.model.GlassHouse;
+import org.example.model.WoodenHouse;
 import org.example.templates.HouseTemplate;
 
 /** Template Method in Java.

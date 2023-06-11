@@ -1,4 +1,4 @@
-package org.example.models.Tree;
+package org.example.model.Tree;
 
 import java.awt.*;
 

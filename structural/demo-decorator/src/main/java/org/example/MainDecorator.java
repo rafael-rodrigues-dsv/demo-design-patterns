@@ -1,9 +1,9 @@
 package org.example;
 
 import org.example.contracts.Car;
-import org.example.models.BasicCar;
-import org.example.models.LuxuryCar;
-import org.example.models.SportsCar;
+import org.example.model.BasicCar;
+import org.example.model.LuxuryCar;
+import org.example.model.SportsCar;
 
 /** Decorator in Java.
  * @author Rafael Rodrigues

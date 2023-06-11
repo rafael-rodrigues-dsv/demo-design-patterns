@@ -1,6 +1,6 @@
 package org.example.abstractfactory.contracts;
 
-import org.example.models.Computer;
+import org.example.model.Computer;
 
 public interface ComputerAbstractFactory {
 

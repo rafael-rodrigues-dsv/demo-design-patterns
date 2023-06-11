@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.models.forest.Forest;
+import org.example.model.forest.Forest;
 
 import java.awt.*;
 

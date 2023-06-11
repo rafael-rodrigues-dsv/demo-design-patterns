@@ -3,8 +3,8 @@ package org.example;
 import org.example.contracts.ChannelCollection;
 import org.example.contracts.ChannelIterator;
 import org.example.enums.ChannelTypeEnum;
-import org.example.models.Channel;
-import org.example.models.ChannelCollectionImpl;
+import org.example.model.Channel;
+import org.example.model.ChannelCollectionImpl;
 
 /** Iterator in Java.
  * @author Rafael Rodrigues

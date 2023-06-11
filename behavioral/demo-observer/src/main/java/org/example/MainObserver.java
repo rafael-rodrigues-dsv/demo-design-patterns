@@ -1,8 +1,8 @@
 package org.example;
 
 import org.example.contracts.Observer;
-import org.example.models.MyTopic;
-import org.example.models.MyTopicSubscriber;
+import org.example.model.MyTopic;
+import org.example.model.MyTopicSubscriber;
 
 import java.util.ArrayList;
 

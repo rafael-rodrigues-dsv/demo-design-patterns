@@ -1,9 +1,9 @@
 package org.example.facades;
 
-import org.example.models.Circle;
-import org.example.models.Rectangle;
-import org.example.models.Square;
-import org.example.models.contracts.Shape;
+import org.example.model.Circle;
+import org.example.model.Rectangle;
+import org.example.model.Square;
+import org.example.model.contracts.Shape;
 
 public class ShapeMaker {
     private Shape circle;

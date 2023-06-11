@@ -1,4 +1,4 @@
-package org.example.models;
+package org.example.model;
 
 // Cloneable interface allows the implementing class to
 // have its objects to be cloned instead of using a new operator.

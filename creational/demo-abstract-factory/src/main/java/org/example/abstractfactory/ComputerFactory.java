@@ -1,7 +1,7 @@
 package org.example.abstractfactory;
 
 import org.example.abstractfactory.contracts.ComputerAbstractFactory;
-import org.example.models.Computer;
+import org.example.model.Computer;
 
 public class ComputerFactory {
 

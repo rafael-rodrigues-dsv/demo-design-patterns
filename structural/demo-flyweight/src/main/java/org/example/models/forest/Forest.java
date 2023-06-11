@@ -1,8 +1,8 @@
-package org.example.models.forest;
+package org.example.model.forest;
 
-import org.example.models.Tree.Tree;
-import org.example.models.Tree.TreeFactory;
-import org.example.models.Tree.TreeType;
+import org.example.model.Tree.Tree;
+import org.example.model.Tree.TreeFactory;
+import org.example.model.Tree.TreeType;
 
 import javax.swing.*;
 import java.awt.*;

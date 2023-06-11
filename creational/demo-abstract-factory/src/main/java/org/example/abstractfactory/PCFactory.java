@@ -1,8 +1,8 @@
 package org.example.abstractfactory;
 
 import org.example.abstractfactory.contracts.ComputerAbstractFactory;
-import org.example.models.Computer;
-import org.example.models.PC;
+import org.example.model.Computer;
+import org.example.model.PC;
 
 public class PCFactory implements ComputerAbstractFactory {
 

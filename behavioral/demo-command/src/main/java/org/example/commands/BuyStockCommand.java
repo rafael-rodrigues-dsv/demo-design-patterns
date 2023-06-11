@@ -1,7 +1,7 @@
 package org.example.commands;
 
 import org.example.contracts.Order;
-import org.example.models.Stock;
+import org.example.model.Stock;
 
 public class BuyStockCommand implements Order {
     private Stock abcStock;

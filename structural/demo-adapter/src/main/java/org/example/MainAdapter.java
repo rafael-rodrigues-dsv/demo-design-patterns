@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.models.AudioPlayer;
+import org.example.model.AudioPlayer;
 
 /** Adapter in Java.
  * @author Rafael Rodrigues

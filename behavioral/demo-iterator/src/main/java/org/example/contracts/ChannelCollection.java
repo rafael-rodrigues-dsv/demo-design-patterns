@@ -1,6 +1,6 @@
 package org.example.contracts;
 
-import org.example.models.Channel;
+import org.example.model.Channel;
 import org.example.enums.ChannelTypeEnum;
 
 public interface ChannelCollection {

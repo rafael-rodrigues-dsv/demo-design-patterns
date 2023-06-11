@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.models.Employee;
+import org.example.model.Employee;
 
 /** Composite in Java.
  * @author Rafael Rodrigues
