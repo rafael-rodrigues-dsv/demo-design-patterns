@@ -2,7 +2,7 @@ package org.example;
 
 import org.example.model.GlassHouse;
 import org.example.model.WoodenHouse;
-import org.example.templates.HouseTemplate;
+import org.example.template.HouseTemplate;
 
 /** Template Method in Java.
  * @author Rafael Rodrigues

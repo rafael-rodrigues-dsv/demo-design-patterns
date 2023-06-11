@@ -1,6 +1,6 @@
 package org.example.model;
 
-import org.example.templates.HouseTemplate;
+import org.example.template.HouseTemplate;
 
 public class WoodenHouse extends HouseTemplate {
 
