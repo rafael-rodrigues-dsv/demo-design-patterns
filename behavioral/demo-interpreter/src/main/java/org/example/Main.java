@@ -7,7 +7,7 @@ import org.example.models.TerminalExpression;
 
 /** Interpreter in Java.
  * @author Rafael Rodrigues
- * @reference https://www.baeldung.com/java-interpreter-pattern
+ * @reference https://www.tutorialspoint.com/design_pattern/interpreter_pattern.htm
  * @version 1.0
  * @since 1.0
  */
