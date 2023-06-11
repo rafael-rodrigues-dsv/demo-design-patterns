@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d4716b-fd6a-4c9a-8f77-1311fad862e8" name="Changes" comment="Implements Facade in Java">
-      <change beforePath="$PROJECT_DIR$/../../out/production/demo-design-patterns/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/demo-design-patterns/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/demo-design-patterns/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/demo-design-patterns/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/demo-design-patterns/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/demo-design-patterns/pom.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="a7d4716b-fd6a-4c9a-8f77-1311fad862e8" name="Changes" comment="Implements Facade in Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
