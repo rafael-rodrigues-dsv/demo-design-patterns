@@ -1,4 +1,4 @@
-package org.example.abstractfactory.contracts;
+package org.example.abstractfactory.contract;
 
 import org.example.model.Computer;
 

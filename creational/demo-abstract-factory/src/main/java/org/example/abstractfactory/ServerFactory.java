@@ -1,6 +1,6 @@
 package org.example.abstractfactory;
 
-import org.example.abstractfactory.contracts.ComputerAbstractFactory;
+import org.example.abstractfactory.contract.ComputerAbstractFactory;
 import org.example.model.Computer;
 import org.example.model.Server;
 
