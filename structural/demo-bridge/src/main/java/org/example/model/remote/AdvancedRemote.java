@@ -1,4 +1,4 @@
-package org.example.model.remotes;
+package org.example.model.remote;
 
 import org.example.contract.Device;
 

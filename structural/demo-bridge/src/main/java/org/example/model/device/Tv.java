@@ -1,8 +1,8 @@
-package org.example.model.devices;
+package org.example.model.device;
 
 import org.example.contract.Device;
 
-public class Radio implements Device {
+public class Tv implements Device {
     private boolean on = false;
     private int volume = 30;
     private int channel = 1;
@@ -51,7 +51,7 @@ public class Radio implements Device {
     @Override
     public void printStatus() {
         System.out.println("------------------------------------");
-        System.out.println("| I'm radio.");
+        System.out.println("| I'm TV set.");
         System.out.println("| I'm " + (on ? "enabled" : "disabled"));
         System.out.println("| Current volume is " + volume + "%");
         System.out.println("| Current channel is " + channel);
